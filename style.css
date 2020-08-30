@@ -1,0 +1,28 @@
+h1 {
+    font-size: larger;
+    color: mediumslateblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: initial;
+    text-align: center;
+}
+
+header {
+    font-size: medium;
+    color: firebrick;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    text-align: center;
+}
+
+main {
+    font-size: medium;
+    color: forestgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    text-align: left;
+    max-width: 1200px;
+}
+
+img {
+    max-height: 400px;
+}
