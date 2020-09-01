@@ -21,6 +21,9 @@ main {
     margin: auto;
     text-align: left;
     max-width: 1200px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
 
 img {
